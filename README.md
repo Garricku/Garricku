@@ -5,9 +5,10 @@
 - 👋 Hi, I’m @Garricku or you can call me Garrick, and pet names are welcome too!
 - 👀 I love music, singing, gaming learning new thing of all kinds especially about languages, history and cultures.
 - 🌱 I’m currently learning Software Engeneering with ALX SE Program and I am super excited.
-- 💞️ I’m looking to collaborate on all kinds of projects! Hopefully I get to make some amazing apps and useful tools that shape the future! WOuldn't that be super cool!?
+- 💞️ I’m looking to collaborate on all kinds of projects! Hopefully I get to make some amazing apps and useful tools that shape the future!
 - 📫 You can reach me on my Email: ricki.glp@gmail.com
-- I am nkot a big social media person but I shall try to add more to this list later.
+
+I am not a big social media person but I shall try to add more to this list later.
 
 My goals
 Everyone has a dream right? I definitly do! I want to have the life I never had, enjoying finanial security and able to do all the enjoyable yet educational things. Like for example traveling the world!
@@ -20,8 +21,6 @@ Love for my family, the people I care about and love for knowledge and understan
 If there is one thing I can not get enough of it is venturing into the unknown, trying to learn or experience something new.
 And lastly self love! I have alwasy put others first in my younger years and this time, I finally want to focus on fulfilling my dreams.
 And no matter how fast those stars shoot across the sky, I will catch each and every one of them!
-
-Hopefully I can learn how to sutomising this page better later, but for this is my best.
 
 Thank you for reading!
 
