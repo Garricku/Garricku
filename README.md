@@ -6,9 +6,16 @@
 - 👀 I love music, singing, gaming and learning all kinds of new things, especially about languages, history and cultures.
 - 🌱 I’m currently learning Software Engeneering with ALX SE Program and I am super excited.
 - 💞️ I’m looking to collaborate on all kinds of projects! Hopefully I get to make some amazing apps and useful tools that shape the future!
-- 📫 You can reach me on my Email: ricki.glp@gmail.com
+- 📫 Contact me @...
 
-I am not a big social media person, but I shall try to add more to this list later.
+            Email:      ricki.glp@gmail.com
+            Twitter:    @Garricku777
+            Whatsapp:   +27653635740
+            Linkdin:    https://www.linkedin.com/in/garrick-potts-502871106
+            Discord:    Arcana?6717
+            Instagram:  garri_potts
+
+I am not a big social media person, but I would love to connect with any nice people out there!
 
 My goals
 Everyone has a dream right? I definitly do! I want to have the life I never had, enjoying finanial security and able to do all the enjoyable yet
