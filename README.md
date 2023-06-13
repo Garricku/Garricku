@@ -18,12 +18,14 @@
 I am not a big social media person, but I would love to connect with any nice people out there!
 
 My goals
+
 Everyone has a dream right? I definitly do! I want to have the life I never had, enjoying finanial security and able to do all the enjoyable yet
 educational things. Like for example traveling the world!
 I want to see and learn all about the world around me and gain a greater undertsand of human history and culture. I find it extremely beautiful. 
 I dream of creating a legacy and environment where I can truly express myself for who I truly am. I look forward to achieving all my dreams!
 
 My motivations
+
 What is it that motivates me? Love of course!
 Love for my family, the people I care about and love for knowledge and understanding.
 If there is one thing I can not get enough of it is venturing into the unknown, trying to learn or experience something new.
