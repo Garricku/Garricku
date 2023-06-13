@@ -32,6 +32,24 @@ If there is one thing I can not get enough of it is venturing into the unknown, 
 And lastly self love! I have always put others first in my younger years, and this time, I finally want to focus on fulfilling my dreams.
 And no matter how fast those shooting stars flash across the sky, I will catch each and every one of them!
 
+Don't forget to use the framework!
+
+    0. Read
+    1. Think
+    2. Think more + Whiteboard
+    3. Ask why?
+    4. Read the error messages
+    5. Google
+    6. Google again! + More context
+    7. Ask a peer, but be respectful and vice versa if you are asked for help
+    8. Ask more peer, for a different prespective
+    9. Ask ChatGPT, don't copy paste. Use it to gain understanding
+    10.Ask your Technical Mentor aka TM
+    11.Ask other TMs
+    12.Ask Staff/Alumni/Mentors
+
+Don't give up!
+
 Thank you for reading!
 
 Much love and big huggles!
