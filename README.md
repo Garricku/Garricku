@@ -2,7 +2,6 @@
 - 1994/10/18
 - South Africa, Cape Town
 
-- 👋 Hi, I’m @Garricku or you can call me Garrick, and pet names are welcome too!
 - 👀 I love music, singing, gaming and learning all kinds of new things, especially about languages, history and cultures.
 - 🌱 I’m currently learning Software Engineering with ALX SE Program and I am super excited.
 - 💞️ I’m looking to collaborate on all kinds of projects! Hopefully I get to make some amazing apps and useful tools that shape the future!
