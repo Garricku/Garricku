@@ -11,7 +11,7 @@
             Twitter:    @Garricku777
             Whatsapp:   +27653635740
             Linkedin:   https://www.linkedin.com/in/garrick-potts-502871106
-            Discord:    Arcana?6717
+            Discord:    g_lp.ricku777
             Instagram:  garri_potts
 
 I am not a big social media person, but I would love to connect with any nice people out there!
