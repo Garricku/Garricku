@@ -4,14 +4,14 @@
 
 - 👋 Hi, I’m @Garricku or you can call me Garrick, and pet names are welcome too!
 - 👀 I love music, singing, gaming and learning all kinds of new things, especially about languages, history and cultures.
-- 🌱 I’m currently learning Software Engeneering with ALX SE Program and I am super excited.
+- 🌱 I’m currently learning Software Engineering with ALX SE Program and I am super excited.
 - 💞️ I’m looking to collaborate on all kinds of projects! Hopefully I get to make some amazing apps and useful tools that shape the future!
 - 📫 Contact me @...
 
             Email:      ricki.glp@gmail.com
             Twitter:    @Garricku777
             Whatsapp:   +27653635740
-            Linkdin:    https://www.linkedin.com/in/garrick-potts-502871106
+            Linkedin:   https://www.linkedin.com/in/garrick-potts-502871106
             Discord:    Arcana?6717
             Instagram:  garri_potts
 
@@ -19,9 +19,9 @@ I am not a big social media person, but I would love to connect with any nice pe
 
 My goals
 
-Everyone has a dream right? I definitly do! I want to have the life I never had, enjoying finanial security and able to do all the enjoyable yet
+Everyone has a dream right? I definitely do! I want to have the life I never had, enjoying financial security and able to do all the enjoyable yet
 educational things. Like for example traveling the world!
-I want to see and learn all about the world around me and gain a greater undertsand of human history and culture. I find it extremely beautiful. 
+I want to see and learn all about the world around me and gain a greater understand of human history and culture. I find it extremely beautiful. 
 I dream of creating a legacy and environment where I can truly express myself for who I truly am. I look forward to achieving all my dreams!
 
 My motivations
@@ -42,7 +42,7 @@ Don't forget to use the framework!
     5. Google
     6. Google again! + More context
     7. Ask a peer, but be respectful and vice versa if you are asked for help
-    8. Ask more peer, for a different prespective
+    8. Ask more peer, for a different perspective
     9. Ask ChatGPT, don't copy paste. Use it to gain understanding
     10.Ask your Technical Mentor aka TM
     11.Ask other TMs
