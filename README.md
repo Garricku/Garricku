@@ -23,6 +23,8 @@ educational things. Like for example traveling the world!
 I want to see and learn all about the world around me and gain a greater understand of human history and culture. I find it extremely beautiful. 
 I dream of creating a legacy and environment where I can truly express myself for who I truly am. I look forward to achieving all my dreams!
 
+Another goal of mine is to bring to people the emotional healing that we all need. When you are less fortunate in life you often don't get the emotional help you need to deal with tramatic events in your past, maybe even from bad parenting. I would like to one day create a way to bring healing to people that can't afford it, because eveyone has a right to having good mental heath.
+
 My motivations
 
 What is it that motivates me? Love of course!
