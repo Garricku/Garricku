@@ -14,7 +14,7 @@
             Discord:    g_lp.ricku777
             Instagram:  garri_potts
 
-I am not a big social media person, but I would love to connect with any nice people out there!
+I would love to connect!
 
 My goals
 
@@ -32,8 +32,6 @@ Love for my family, the people I care about and love for knowledge and understan
 If there is one thing I can not get enough of it is venturing into the unknown, trying to learn or experience something new.
 And lastly self love! I have always put others first in my younger years, and this time, I finally want to focus on fulfilling my dreams.
 And no matter how fast those shooting stars flash across the sky, I will catch each and every one of them!
-
-Don't give up!
 
 Thank you for reading!
 
