@@ -34,8 +34,6 @@ And lastly self love! I have always put others first in my younger years, and th
 And no matter how fast those shooting stars flash across the sky, I will catch each and every one of them!
 
 Thank you for reading!
-
-Much love and big huggles!
 <!---
 Garricku/Garricku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
