@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Software Engineering with ALX SE Program and I am super excited.
 - 💞️ I’m looking to collaborate on all kinds of projects! Hopefully I get to make some amazing apps and useful tools that shape the future!
 
-<ul>Contact me
+<ul><h4>Contact me</h4>
             <li>Email:      ricki.glp@gmail.com</li>
             <li>Twitter:    @Garricku777</li>
             <li>Whatsapp:   +27653635740</li>
