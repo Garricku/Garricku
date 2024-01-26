@@ -1,11 +1,10 @@
 <h1 align="center">A little bit about me...</h1>
-<img src="wp3203846-pocahontas-disney-wallpaper.jpg" width="70%" height="250">
 <ul>
 <li>Fullname - Garrick Larson Potts</li>
 <li>Date of Birth - 1994/10/18</li>
 <li>Place of birth - South Africa, Cape Town</li>
 </ul>
-
+<img align="center" src="2r5w.gif" height="200">
 <h6>✨ I love music, singing, gaming and learning all kinds of new things, especially languages, history and cultures.</h6>
 <h6>💞️ I’m looking forward to collaborating on all kinds of projects! Hopefully I make some amazing apps and useful tools with colaborators that will shape the future.</h6>
 
@@ -21,7 +20,7 @@
 <p>Contributing to open-source projects is a great way to gain experience and build relationships in the software engineering community. That's why it is one of my goals to collaborate as much as possible.</p>
 <p>Learning new programming languages and technologies, staying up-to-date with the latest trends in the industry to help keep my mind sharp.</p>
 <p>Communication is a critical skill for software engineers, therefore improving my communication skills is always a goal I strive for.</p>
-<img src="abbe28a943ed44fcd98452687f7c46c9.gif" width="200" height="200">
+<img align="center" src="abbe28a943ed44fcd98452687f7c46c9.gif" width="200" height="200">
 <h3>Motivations:</h3>
 <p>I have a passion for coding and I love learning new things, especially about software engineering. My passion for coding is one of my greatest motivations for continuing to learn and growing in my career as a software engineer.</p>
 <p>We all have a desire for financial security and I am no exception. I'd like to have financial security and enjoy life to the fullest. I would absolutly love to travel the world and learn about different cultures and explore the new experiences.</p>
