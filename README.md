@@ -1,5 +1,5 @@
 <h1 align="center">A little bit about me...</h1>
-<img src="https://github.com/Garricku/Garricku" width="200" height="200">
+<img src="https://github.com/Garricku/Garricku/abbe28a943ed44fcd98452687f7c46c9.gif" width="200" height="200">
 <ul>
 <li>Fullname - Garrick Larson Potts</li>
 <li>Date of Birth - 1994/10/18</li>
