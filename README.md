@@ -4,7 +4,7 @@
 <li>Date of Birth - 1994/10/18</li>
 <li>Place of birth - South Africa, Cape Town</li>
 </ul>
-<img align="center" src="2r5w.gif" height="200">
+<img align="center" src="2r5w.gif" width="70%" height="100">
 <h6>✨ I love music, singing, gaming and learning all kinds of new things, especially languages, history and cultures.</h6>
 <h6>💞️ I’m looking forward to collaborating on all kinds of projects! Hopefully I make some amazing apps and useful tools with colaborators that will shape the future.</h6>
 
