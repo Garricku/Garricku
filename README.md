@@ -5,9 +5,8 @@
 <li>Place of birth - South Africa, Cape Town</li>
 </ul>
 
-✨ I love music, singing, gaming and learning all kinds of new things, especially about languages, history and cultures.
-🌱 I’m currently learning Software Engineering with ALX SE Program and I am super excited.
-💞️ I’m looking to collaborate on all kinds of projects! Hopefully I get to make some amazing apps and useful tools that shape the future!
+<h6>✨ I love music, singing, gaming and learning all kinds of new things, especially languages, history and cultures.</h6>
+<h6>💞️ I’m looking forward to collaborating on all kinds of projects! Hopefully I make some amazing apps and useful tools with colaborators that will shape the future.</h6>
 
 <ul><h4>Contact me</h4>
             <li>Email:      ricki.glp@gmail.com</li>
