@@ -38,15 +38,15 @@
 <img align="center" src="abbe28a943ed44fcd98452687f7c46c9.gif" width="200" height="200">
 <h3>Motivations:</h3>
 <p>I have a passion for coding and I love learning new things, especially about software engineering. My passion for coding is one of my greatest motivations for continuing to learn and growing in my career as a software engineer.</p>
-<p>We all have a desire for financial security and I am no exception. I'd like to have financial security and enjoy life to the fullest. I would absolutly love to travel the world and learn about different cultures and explore the new experiences.</p>
-<p>I also have a strong desire to bring healing to people who are living in difficult circumstances. This cause motivates me to work hard and build a successful career that allows me to help others and make a noticable difference in people lives.</p>
+<p>We all have a desire for financial security and I am no exception. I'd like to have financial security and enjoy life to the fullest. I would absolutly love to travel the world and learn about different cultures and explore new and exciting experiences.</p>
+<p>I also have a strong desire to bring healing to people who are living in difficult circumstances. This cause motivates me to work hard and build a successful career that will allow me to help others and make a noticable difference in people lives.</p>
 
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
 
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/ricki777"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-<h5>Thank you!</h5>
+<h3>Thank you!</h3>
 <!---
 Garricku/Garricku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
