@@ -3,6 +3,7 @@
 <li>Fullname - Garrick Larson Potts</li>
 <li>Date of Birth - 1994/10/18</li>
 <li>Place of birth - South Africa, Cape Town</li>
+<li>MBTI - INFJ -A</li>
 </ul>
 <h6>✨“The best way to predict the future is to invent it.” - Alan Kay</h6>
 
