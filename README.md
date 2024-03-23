@@ -25,8 +25,6 @@
 
 <a href="http://www.github.com/Garricku"><img src="https://github-readme-stats.vercel.app/api?username=Garricku&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=6366f1&icon_color=22c55e&bg_color=22272e&hide_border=true&show_icons=true" alt="Garricku's GitHub stats" /></a>
 
-<a href="https://github.com/Garricku" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garricku&langs_count=10&title_color=a855f7&text_color=6366f1&icon_color=22c55e&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 </ul>
 <h3>Goals:</h3>
 <p>Contributing to open-source projects is a great way to gain experience and build relationships in the software engineering community. That's why it is one of my goals to collaborate as much as possible.</p>
